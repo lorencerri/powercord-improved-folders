@@ -1,8 +1,8 @@
 {
-    "name": "Example Plugin",
-    "shorthand": "ePlugin",
+    "name": "Improved Folders",
+    "shorthand": "improved-folders",
     "version": "1.0.0",
-    "description": "A simple plugin template.",
+    "description": "Improved Discord Folders",
     "author": "TrueXPixels",
     "license": "MIT"
 }
